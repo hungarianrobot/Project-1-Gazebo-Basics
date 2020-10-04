@@ -18,7 +18,7 @@
 `git clone https://github.com/hungarianrobot/Project-1-Gazebo-Basics`
 3. Build workspace: `catkin_make`
 4. Source environment: `source devel/setup.bash` 
-5. Start the Gazebo simulation and RViz: `roslaunch my_robot world.launch`
+5. Start the Gazebo simulation and RViz: `roslaunch hurba_robot world.launch`
 6. Start the Teleop package: `rosrun teleop_twist_keyboard teleop_twist_keyboard.py`
 
 ![alt text][image1]
